@@ -4,7 +4,7 @@ public class Test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-        System.out.println("这是我要的ok");
+        System.out.println("脮芒脢脟脦脪脪陋碌脛ok123");
 	}
 
 }
